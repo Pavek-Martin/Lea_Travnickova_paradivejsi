@@ -1,0 +1,8 @@
+jedna o prehravac videi ze kterym je velka sranda a se ktery se daji delat ruzna kouzla
+opakovat ruzny useky videa, spomalovat, zrychlovat, poustet bez zvuku jen obraz apod.
+je toho neuveritelne moc co to umit, ani se to neda vsechno vyzkouset viz soubor "manual_mpv.txt"
+
+
+url na stazeni windows verze, zde:
+
+
