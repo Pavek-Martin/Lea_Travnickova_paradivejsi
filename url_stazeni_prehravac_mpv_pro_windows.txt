@@ -2,8 +2,7 @@ jedna o prehravac videi ze kterym je velka sranda a se ktery se daji delat ruzna
 opakovat ruzny useky videa, spomalovat, zrychlovat, poustet bez zvuku jen obraz apod.
 je toho neuveritelne moc co to umit, ani se to neda vsechno vyzkouset viz soubor "manual_mpv.txt"
 
-
 url na stazeni windows verze, zde:
 https://mpv.io/installation/
-
-
+https://github.com/shinchiro/mpv-winbuild-cmake/releases
+https://github.com/zhongfly/mpv-winbuild/releases
