@@ -5,4 +5,10 @@ je toho neuveritelne moc co to umit, ani se to neda vsechno vyzkouset viz soubor
 url na stazeni windows verze, zde:
 https://mpv.io/installation/
 https://github.com/shinchiro/mpv-winbuild-cmake/releases
+
+nejlepsi asi tady
 https://github.com/zhongfly/mpv-winbuild/releases
+nejni od veci zde sledovat Download Tips:
+
+konkretne skusit treba tohle 
+https://github.com/zhongfly/mpv-winbuild/releases/download/2025-03-13-d9dadf0/mpv-x86_64-20250313-git-d9dadf0.7z
