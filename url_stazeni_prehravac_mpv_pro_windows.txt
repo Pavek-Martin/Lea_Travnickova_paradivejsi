@@ -4,6 +4,6 @@ je toho neuveritelne moc co to umit, ani se to neda vsechno vyzkouset viz soubor
 
 
 url na stazeni windows verze, zde:
-https://sourceforge.net/projects/mpv-player-windows/
+https://mpv.io/installation/
 
 
