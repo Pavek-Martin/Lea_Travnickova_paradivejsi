@@ -48,13 +48,13 @@ echo filename - %filename%
 
 echo --speed=%s%
 
-echo --ss=%a%
+echo --start=%a%
 echo --ab-loop-a=%a%
 echo --ab-loop-b=%b%
 
 sleep 2
 
-mpv --mute --speed=%s% --ss=%a% --loop --ab-loop-a=%a% --ab-loop-b=%b% %filename%
+mpv --mute --speed=%s% --start=%a% --ab-loop-a=%a% --ab-loop-b=%b% %filename%
 
 :konec
 @echo on
